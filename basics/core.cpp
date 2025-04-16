@@ -17,6 +17,11 @@ private:
   int salary;
 };
 
+class Account {
+public:
+private:
+};
+
 int main() {
   Teacher t1;
 
